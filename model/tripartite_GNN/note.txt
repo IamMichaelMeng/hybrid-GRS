@@ -1,0 +1,7 @@
+poi_num = 13474
+check_ins = 124933
+user_info length is 11
+To_do_list:
+	Done: 1.mask poi dimension to 11
+	2.construct context features dataset
+
